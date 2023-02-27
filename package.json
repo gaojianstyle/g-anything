@@ -1,0 +1,19 @@
+{
+  "name": "anything",
+  "version": "1.0.0",
+  "description": "npm 项目包,基于daimazun重构和扩展",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaojianstyle/anything.git"
+  },
+  "author": "gaojianstyle@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaojianstyle/anything/issues"
+  },
+  "homepage": "https://github.com/gaojianstyle/anything#readme"
+}
