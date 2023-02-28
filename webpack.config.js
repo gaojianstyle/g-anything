@@ -10,8 +10,16 @@ module.exports = {
     },
     optimization: {
         minimize: true,
-        minimizer: [new TerserPlugin({
-            extractComments: false, //不将注释提取到单独的文件中
-        })],
+        minimizer: [
+            // 参考 https://qa.1r1g.com/sf/ask/4537294261/
+            new TerserPlugin({
+                extractComments: false,
+                terserOptions: {
+                    format: {
+                        comments: false,
+                    },
+                },
+            }),
+        ],
     },
 }
