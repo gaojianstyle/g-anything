@@ -19,6 +19,8 @@
 ```html
 <script src="https://cdn.jsdelivr.net/gh/gaojianstyle/g-anything@main/dist/g-anything.min.js"></script>
 ```
+## CDN历史版本
+https://cdn.jsdelivr.net/gh/gaojianstyle/g-anything@main/dist/
 
 ## npm安装
 
