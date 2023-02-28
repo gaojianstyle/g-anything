@@ -1,20 +1,30 @@
-# [什么是anything?](https://note.youdao.com/s/2MOZBsDW)
+# [什么是g-anything?](https://note.youdao.com/s/2MOZBsDW)
 
 **下一代工具框架.**
 
-很多时候我们只是希望快速实现功能,并且拥有**易用性,通用性,可移植性**,anything完全可以满足这一点.
+很多时候我们只是希望快速实现功能,并且拥有**易用性,通用性,可移植性**,g-anything完全可以满足这一点.
+
+## github
+
+<https://github.com/gaojianstyle/g-anything>
+
+## npm
+
+<https://www.npmjs.com/package/g-anything>
+
+
 
 ## 理念
 
-**一切皆可anything.**
+**一切皆可g-anything.**
 
 和python理念一样,快速便捷的实现我们想要的功能.
 
 ## 海纳百川
 
-**在anything中可以找到一切你想要的函数.**
+**在g-anything中可以找到一切你想要的函数.**
 
-anything意在集成前后端通用方法,在此过程中并不介意和排斥其他优秀的框架,相反的非常乐意将其他框架都集成到anything中,anything可以拥抱一切美好,通过对其他框架的集成将一切都转换成对JavaScript的object对象扩展,anything将成为下一代工具框架.
+g-anything意在集成前后端通用方法,在此过程中并不介意和排斥其他优秀的框架,相反的非常乐意将其他框架都集成到g-anything中,g-anything可以拥抱一切美好,通过对其他框架的集成将一切都转换成对JavaScript的object对象扩展,g-anything将成为下一代工具框架.
 
 # 运行平台
 
@@ -32,32 +42,24 @@ anything意在集成前后端通用方法,在此过程中并不介意和排斥�
 ## CDN引入
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/gaojianstyle/anything@main/dist/anything.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/gaojianstyle/g-anything@main/dist/g-anything.min.js"></script>
 ```
-
-
 
 ## npm安装
 
-    npm i anything
+    npm i g-anything
     或
-    cnpm i anything
+    cnpm i g-anything
     或
-    yarn add anything
+    yarn add g-anything
     或
-    pnpm i anything
-
-
-
-
-
-
+    pnpm i g-anything
 
 # 使用
 
-### anything函数命名规则
+### g-anything函数命名规则
 
-1.  anything使用下标命名
+1.  g-anything使用下标命名
 2.  **g\_** 为所有函数的前缀
 3.  调用方式为两种
 
@@ -235,10 +237,6 @@ console.log("2023-2-28 8:50:11".g_time_format());
 
 *   g\_uuid() 生成唯一uuid
 *   g\_regular\_folder(folder\_name) 文件夹名称是否合法
-
-
-
-
 
 # 实例
 
