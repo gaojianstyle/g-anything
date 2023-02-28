@@ -4,7 +4,8 @@
   "description": "npm 项目包,基于daimazun重构和扩展",
   "main": "./dist/anything.min.js",
   "files": [
-    "dist/*"
+    "dist/*",
+    "README.md"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
