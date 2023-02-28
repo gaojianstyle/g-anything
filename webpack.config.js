@@ -6,7 +6,7 @@ module.exports = {
     entry: path.join(__dirname, './lib/index.js'),  //打包入口文件的路径
     output: {
         path: path.join(__dirname, './dist'), //输出文件的存放路径
-        filename: 'anything.min.js'  //输出文件的名称，将之前的main.js文件改为了anything.min.js
+        filename: 'g-anything.min.js'  //输出文件的名称，将之前的main.js文件改为了anything.min.js
     },
     optimization: {
         minimize: true,

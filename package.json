@@ -2,7 +2,7 @@
   "name": "g-anything",
   "version": "1.0.0",
   "description": "npm 项目包,基于daimazun重构和扩展",
-  "main": "./dist/anything.min.js",
+  "main": "./dist/g-anything.min.js",
   "files": [
     "dist/*",
     "README.md"

@@ -14,6 +14,22 @@
 
 
 
+## CDN引入
+
+```html
+<script src="https://cdn.jsdelivr.net/gh/gaojianstyle/g-anything@main/dist/g-anything.min.js"></script>
+```
+
+## npm安装
+
+    npm i g-anything
+    或
+    cnpm i g-anything
+    或
+    yarn add g-anything
+    或
+    pnpm i g-anything
+
 ## 理念
 
 **一切皆可g-anything.**
@@ -39,21 +55,6 @@ g-anything意在集成前后端通用方法,在此过程中并不介意和排斥
 
 # 安装
 
-## CDN引入
-
-```html
-<script src="https://cdn.jsdelivr.net/gh/gaojianstyle/g-anything@main/dist/g-anything.min.js"></script>
-```
-
-## npm安装
-
-    npm i g-anything
-    或
-    cnpm i g-anything
-    或
-    yarn add g-anything
-    或
-    pnpm i g-anything
 
 # 使用
 
