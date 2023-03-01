@@ -1,6 +1,6 @@
 {
   "name": "g-anything",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "npm 项目包,基于daimazun重构和扩展",
   "main": "./dist/g-anything.min.js",
   "files": [
@@ -22,12 +22,12 @@
   },
   "homepage": "https://github.com/gaojianstyle/g-anything#readme",
   "devDependencies": {
-    "terser-webpack-plugin": "^5.3.6",
+    "terser-webpack-plugin": "5.3.6",
     "webpack": "5.50.0",
     "webpack-cli": "4.2.0"
   },
   "dependencies": {
-    "moment": "^2.29.4",
-    "uuid": "^9.0.0"
+    "moment": "2.29.4",
+    "uuid": "9.0.0"
   }
 }
