@@ -1,8 +1,10 @@
 # [什么是g-anything?](https://note.youdao.com/s/2MOZBsDW)
 
-**下一代工具框架.**
+**下一代全端工具框架.**
 
 很多时候我们只是希望快速实现功能,并且拥有**易用性,通用性,可移植性**,g-anything完全可以满足这一点.
+
+云文档(实时更新,推荐) <https://note.youdao.com/s/2MOZBsDW>
 
 ## github
 
@@ -12,15 +14,17 @@
 
 <https://www.npmjs.com/package/g-anything>
 
-
+# 安装
 
 ## CDN引入
 
 ```html
 <script src="https://cdn.jsdelivr.net/gh/gaojianstyle/g-anything@main/dist/g-anything.min.js"></script>
 ```
+
 ## CDN历史版本
-https://cdn.jsdelivr.net/gh/gaojianstyle/g-anything@main/dist/
+
+<https://cdn.jsdelivr.net/gh/gaojianstyle/g-anything@main/dist/>
 
 ## npm安装
 
@@ -48,15 +52,12 @@ g-anything意在集成前后端通用方法,在此过程中并不介意和排斥
 
 全平台支持
 
-*   [x] nodejs
-*   [x] 浏览器
+*   \[√] nodejs
+*   \[√] 浏览器
 
 # 实现原理
 
 基于object原型链扩展达到引入一次全局调用.
-
-# 安装
-
 
 # 使用
 
