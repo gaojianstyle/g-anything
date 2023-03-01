@@ -1,5 +1,5 @@
 // var anything = require('../lib/index.js')
-var anything = require('../dist/anything.min.js')
+var anything = require('../dist/g-anything.min.js')
 
 let object_demo = {
     name: "小明",
