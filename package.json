@@ -1,6 +1,6 @@
 {
   "name": "g-anything",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "下一代工具框架,一切皆可g-anything.",
   "main": "./dist/g-anything.min.js",
   "files": [
